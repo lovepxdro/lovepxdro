@@ -8,19 +8,18 @@ focus        : blue team
 languages    : pt-br, en
 
 interests    : incident response
-               malware analysis
-               detection engineering
                threat hunting
-               automation
+               detection engineering
 
-environment  : linux & windows
-               cloud & containers
-               networks
-               security tooling
-               scripting
+also into    : red team, security research,
+               system design, automation
+
+stack        : python, linux/windows,
+               cloud & containers,
+               networks, security tooling
 
 currently    : learning, building,
                experimenting, documenting
 
-status       : always learning
+status       : cve pending, vendor unresponsive
 ```
